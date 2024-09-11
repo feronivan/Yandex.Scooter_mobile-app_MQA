@@ -70,6 +70,7 @@
 </details>
  
 [Ссылка на требования](https://praktikum.notion.site/fbb847fa63244f5db3272bc8034ca7fd?pvs=4)
+
 [Ссылка на макеты](https://www.figma.com/file/kqLqPvSvjLVLomkdadkAnk/mobile)
 
 ## Проделанная работа:
